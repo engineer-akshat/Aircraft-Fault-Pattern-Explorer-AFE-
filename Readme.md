@@ -130,9 +130,3 @@ jupyter lab
 	•	Project report summary
 
 ⸻
-
-##  Resume Summary 
-
-Identified recurring electrical and A/C fault patterns using FAA/NASA datasets, built a Tableau dashboard for trend detection, applied text-mining for root-cause grouping, and highlighted high-risk components to support reliability insights.
-
-⸻
